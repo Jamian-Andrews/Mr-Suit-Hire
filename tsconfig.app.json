@@ -5,10 +5,10 @@
     "types": []
   },
   "include": [
-    "../../JAR/src/**/*.ts"
+    "src/**/*.ts"
   ],
   "exclude": [
-    "../../JAR/src/test.ts",
-    "../../JAR/src/**/*.spec.ts"
+    "src/test.ts",
+    "src/**/*.spec.ts"
   ]
 }
